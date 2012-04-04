@@ -1,0 +1,31 @@
+/* @override http://localhost:4000/stylesheets/app.css */
+
+/* -----------------------------------------
+	Header Stuff
+----------------------------------------- */
+body {
+	font: 18px/1.7em "Janna LT W20 Regular";
+	font-weight: normal;
+}
+p {
+	font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6, strong {
+	font-family: "Shilia W23 430 Regular";
+	font-weight: normal;
+}
+header h2 {
+	font-size:109px;
+	line-height: 109px;
+	font-family: "Shilia W23 430 Regular";
+    margin:60px 10px 0 0;
+    color: #686560;
+}
+header p {
+	margin-bottom: 0;
+}
+/* -----------------------------------------
+	Landing Page
+----------------------------------------- */
+
+
